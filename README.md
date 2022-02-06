@@ -12,21 +12,23 @@ The app consists of simple and not over complicated counter and history where yo
 Each time you reset counter you can put a note to the history, so you can later analyse your failed attempts.
 
 
-## ScreenShots
+## Screenshots
 
 ### Dark Mode
+| Home Screen | Rank Page | History Page | Settings Page |
+|-------------|-----------|--------------|---------------|
+|![Home Screen image](/images/Screenshot_1644053897.png "Home Screen")|![Rank Page image](/images/Screenshot_1644053945.png "Rank Page")|![History Page image](/images/Screenshot_1644053968.png "History Page")|![Settings Page image](/images/Screenshot_1644053977.png "Settings Page")
 
-![Home Screen image](/images/Screenshot_1644053897.png "Home Screen")
-![Rank Page image](/images/Screenshot_1644053945.png "Rank Page")
-![History Page image](/images/Screenshot_1644053968.png "History Page")
-![Settings Page image](/images/Screenshot_1644053977.png "Settings Page")
+
+
 
 ### Light Mode
 
-![Home Screen image](/images/light_home.png "Home Screen")
-![Rank Page image](/images/light_rank.png "Rank Page")
-![History Page image](/images/light_history.png "History Page")
-![Settings Page image](/images/light_settings.png "Settings Page")
+| Home Screen | Rank Page | History Page | Settings Page |
+|-------------|-----------|--------------|---------------|
+|![Home Screen image](/images/light_home.png "Home Screen")|![Rank Page image](/images/light_rank.png "Rank Page")|![History Page image](/images/light_history.png "History Page")|![Settings Page image](/images/light_settings.png "Settings Page")
+
+
 
 ## Installing
 
